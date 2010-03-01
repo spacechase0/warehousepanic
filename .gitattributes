@@ -1,1 +1,20 @@
 * text=auto !eol
+media/advancewars.gif -text
+media/green_soldier.png -text
+media/red_soldier.png -text
+src/SceneGame.cpp -text
+src/SceneGame.h -text
+src/SceneMenu.cpp -text
+src/SceneMenu.h -text
+src/WCEngine/Application.cpp -text
+src/WCEngine/Application.h -text
+src/WCEngine/EventManager.cpp -text
+src/WCEngine/EventManager.h -text
+src/WCEngine/ResourceManager.cpp -text
+src/WCEngine/ResourceManager.h -text
+src/WCEngine/Scene.cpp -text
+src/WCEngine/Scene.h -text
+src/WCEngine/main.cpp -text
+src/game.cbp -text
+src/game.depend -text
+src/game.layout -text
