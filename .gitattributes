@@ -41,7 +41,5 @@ src/WCEngine/main.cpp -text
 src/conveyor.h -text
 src/crate.h -text
 src/game.cbp -text
-src/game.depend -text
-src/game.layout -text
 src/gate.h -text
 src/truck.h -text
