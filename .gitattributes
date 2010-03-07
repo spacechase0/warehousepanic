@@ -1,6 +1,10 @@
 * text=auto !eol
 media/Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/arial.ttf -text
+media/button_pause.png -text
+media/button_pause_on.png -text
+media/button_quit.png -text
+media/button_quit_on.png -text
 media/conveyor_dir1.png -text
 media/conveyor_dir1_turn_left.png -text
 media/conveyor_dir1_turn_right.png -text
@@ -46,6 +50,7 @@ media/gate-yellow-right-fg.png -text
 media/green_soldier.png -text
 media/incinerator.png -text
 media/red_soldier.png -text
+media/text_paused.png -text
 media/truck-right.png -text
 src/Conveyor.h -text
 src/Crate.h -text
@@ -68,3 +73,6 @@ src/WCEngine/Scene.cpp -text
 src/WCEngine/Scene.h -text
 src/WCEngine/main.cpp -text
 src/game.cbp -text
+work/button.psd -text
+work/text.psd -text
+work/truck.xcf -text
