@@ -1,3 +1,8 @@
 /*.dll
 /WarehousePanic.exe
+lvl_edit/*.depend
+lvl_edit/*.dll
+lvl_edit/*.layout
+lvl_edit/bin
+lvl_edit/obj
 src/obj
