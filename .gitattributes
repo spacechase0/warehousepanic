@@ -108,5 +108,6 @@ src/WCEngine/Scene.h -text
 src/WCEngine/main.cpp -text
 src/game.cbp -text
 work/button.psd -text
+work/keyboard.psd -text
 work/text.psd -text
 work/truck.xcf -text
