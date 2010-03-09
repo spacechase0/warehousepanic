@@ -90,6 +90,7 @@ media/text_paused.png -text
 media/truck-right.png -text
 src/Conveyor.h -text
 src/Crate.h -text
+src/Functions.h -text
 src/Gate.h -text
 src/Keyboard.cpp -text
 src/Keyboard.h -text
