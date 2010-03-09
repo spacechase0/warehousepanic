@@ -5,4 +5,6 @@ lvl_edit/*.dll
 lvl_edit/*.layout
 lvl_edit/bin
 lvl_edit/obj
+src/*.depend
+src/*.layout
 src/obj
