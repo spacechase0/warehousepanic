@@ -102,6 +102,8 @@ src/Keyboard.cpp -text
 src/Keyboard.h -text
 src/Level.h -text
 src/Object.h -text
+src/SceneCredits.cpp -text
+src/SceneCredits.h -text
 src/SceneGame.cpp -text
 src/SceneGame.h -text
 src/SceneHighscore.cpp -text
