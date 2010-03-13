@@ -34,8 +34,6 @@ lvl_edit/truck-hor.PNG -text
 lvl_edit/truck-vert.PNG -text
 lvl_edit/truck.h -text
 lvl_edit/warehouse-template.png -text
-media/Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
-media/Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/arial.ttf -text
 media/button_pause.png -text
 media/button_pause_on.png -text
@@ -92,6 +90,8 @@ media/green_soldier.png -text
 media/incinerator.png -text
 media/keyboard.png -text
 media/loading.png -text
+media/music_Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
+media/music_Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/red_soldier.png -text
 media/text_paused.png -text
 media/truck-right.png -text
