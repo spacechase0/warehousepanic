@@ -130,5 +130,7 @@ src/game.cbp -text
 work/button.psd -text
 work/game_flow_chart.psd -text
 work/keyboard.psd -text
+work/level_grid.png -text
 work/text.psd -text
+work/tiles.psd -text
 work/truck.xcf -text
