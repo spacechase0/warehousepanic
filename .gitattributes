@@ -1,5 +1,4 @@
 * text=auto !eol
-/highscores.wph -text
 levels/1[!!-~]gate.lvl -text
 levels/test[!!-~]level.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text

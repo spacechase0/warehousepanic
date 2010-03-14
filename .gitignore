@@ -1,7 +1,10 @@
 /*.dll
+/*.exe
+/*.wph
 /WarehousePanic.exe
 lvl_edit/*.depend
 lvl_edit/*.dll
+lvl_edit/*.exe
 lvl_edit/*.layout
 lvl_edit/bin
 lvl_edit/obj
