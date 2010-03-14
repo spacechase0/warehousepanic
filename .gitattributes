@@ -1,4 +1,5 @@
 * text=auto !eol
+/highscores.wph -text
 levels/1[!!-~]gate.lvl -text
 levels/test[!!-~]level.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text
@@ -92,6 +93,7 @@ media/incinerator.png -text
 media/keyboard.png -text
 media/loading.png -text
 media/music_Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
+media/music_Ring[!!-~]Of[!!-~]Fire[!!-~]Midi-15375-Free-Loops.com.wav -text
 media/music_Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/red_soldier.png -text
 media/snd_button-25.wav -text
@@ -115,6 +117,7 @@ src/SceneHighscore.cpp -text
 src/SceneHighscore.h -text
 src/SceneMenu.cpp -text
 src/SceneMenu.h -text
+src/Score.h -text
 src/Settings.h -text
 src/Text.cpp -text
 src/Text.h -text
