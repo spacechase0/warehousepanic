@@ -1,5 +1,6 @@
 * text=auto !eol
-levels/load-test.wpf -text
+levels/1[!!-~]gate.lvl -text
+levels/test[!!-~]level.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text
 lvl_edit/arial.ttf -text
 lvl_edit/arrow-hor-left.png -text
