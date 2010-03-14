@@ -97,7 +97,8 @@ media/red_soldier.png -text
 media/snd_button-25.wav -text
 media/snd_button-30.wav -text
 media/text_paused.png -text
-media/truck-right.png -text
+media/truck_dir0.png -text
+media/truck_dir1.png -text
 src/Conveyor.h -text
 src/Crate.h -text
 src/Functions.h -text
