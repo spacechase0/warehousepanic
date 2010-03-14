@@ -37,6 +37,8 @@ lvl_edit/truck-vert.PNG -text
 lvl_edit/truck.h -text
 lvl_edit/warehouse-template.png -text
 media/arial.ttf -text
+media/bg_splash.png -text
+media/bg_title.png -text
 media/button_pause.png -text
 media/button_pause_on.png -text
 media/button_quit.png -text
@@ -117,6 +119,8 @@ src/SceneHighscore.cpp -text
 src/SceneHighscore.h -text
 src/SceneMenu.cpp -text
 src/SceneMenu.h -text
+src/Scenesplash.cpp -text
+src/Scenesplash.h -text
 src/Score.h -text
 src/Settings.h -text
 src/Text.cpp -text
