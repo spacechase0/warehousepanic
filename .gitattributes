@@ -132,8 +132,6 @@ src/WCEngine/Scene.cpp -text
 src/WCEngine/Scene.h -text
 src/WCEngine/main.cpp -text
 src/game.cbp -text
-src/scenesplash.cpp -text
-src/scenesplash.h -text
 work/button.psd -text
 work/game_flow_chart.psd -text
 work/keyboard.psd -text
