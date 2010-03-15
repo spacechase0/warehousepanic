@@ -39,6 +39,10 @@ lvl_edit/warehouse-template.png -text
 media/arial.ttf -text
 media/bg_splash.png -text
 media/bg_title.png -text
+media/bg_tutorial_1.png -text
+media/bg_tutorial_2.png -text
+media/bg_tutorial_3.png -text
+media/bg_tutorial_4.png -text
 media/button_pause.png -text
 media/button_pause_on.png -text
 media/button_quit.png -text
