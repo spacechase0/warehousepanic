@@ -1,6 +1,7 @@
 * text=auto !eol
 levels/1[!!-~]gate.lvl -text
 levels/test[!!-~]level.lvl -text
+levels/tutorial[!!-~]-[!!-~]step[!!-~]1.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text
 lvl_edit/arial.ttf -text
 lvl_edit/arrow-hor-left.png -text
@@ -116,6 +117,8 @@ src/SceneGame.cpp -text
 src/SceneGame.h -text
 src/SceneHighscore.cpp -text
 src/SceneHighscore.h -text
+src/SceneHowToPlay.cpp -text
+src/SceneHowToPlay.h -text
 src/SceneMenu.cpp -text
 src/SceneMenu.h -text
 src/Scenesplash.cpp -text
