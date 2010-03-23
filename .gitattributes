@@ -175,6 +175,9 @@ media/font_Y_small.png -text
 media/font_Z_large.png -text
 media/font_Z_medium.png -text
 media/font_Z_small.png -text
+media/font_space_large.png -text
+media/font_space_medium.png -text
+media/font_space_small.png -text
 media/gate-blue-left-bg.png -text
 media/gate-blue-left-fg.png -text
 media/gate-blue-right-bg.png -text
