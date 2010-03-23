@@ -142,6 +142,10 @@ src/WCEngine/Scene.h -text
 src/WCEngine/main.cpp -text
 src/game.cbp -text
 work/button.psd -text
+work/font_large.psd -text
+work/font_medium.psd -text
+work/font_small.psd -text
+work/fonts_template.psd -text
 work/game_flow_chart.psd -text
 work/keyboard.psd -text
 work/level_grid.png -text
