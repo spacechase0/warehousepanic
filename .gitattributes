@@ -1,6 +1,10 @@
 * text=auto !eol
 levels/1[!!-~]gate.lvl -text
+levels/sc0_l1.lvl -text
+levels/sc0_l2.lvl -text
+levels/sc0_l3.lvl -text
 levels/test[!!-~]level.lvl -text
+levels/tut_level.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text
 lvl_edit/arial.ttf -text
 lvl_edit/arrow-hor-left.png -text
@@ -217,13 +221,17 @@ media/gate-yellow-right-fg.png -text
 media/incinerator.png -text
 media/keyboard.png -text
 media/loading.png -text
+media/music_Atmos[!!-~]DnB[!!-~]1.wav-18030-Free-Loops.com.wav -text
+media/music_DnB[!!-~]Roller[!!-~]Beat.wav-20091-Free-Loops.com.wav -text
 media/music_Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
 media/music_Plain[!!-~]Loafer.mp3 -text
 media/music_Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/snd_button-25.wav -text
 media/snd_button-30.wav -text
 media/star-public-domain.png -text
+media/text_fail.png -text
 media/text_paused.png -text
+media/text_win.png -text
 media/truck_dir0.png -text
 media/truck_dir1.png -text
 src/Conveyor.h -text
