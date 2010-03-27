@@ -238,8 +238,6 @@ media/text_win.png -text
 media/tile.png -text
 media/truck_dir0.png -text
 media/truck_dir1.png -text
-media/wall-h.png -text
-media/wall-v.png -text
 src/Conveyor.h -text
 src/Crate.h -text
 src/Functions.h -text
