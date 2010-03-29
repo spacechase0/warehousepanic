@@ -1,10 +1,11 @@
 * text=auto !eol
-levels/1[!!-~]gate.lvl -text
-levels/sc0_l1.lvl -text
-levels/sc0_l2.lvl -text
-levels/sc0_l3.lvl -text
-levels/test[!!-~]level.lvl -text
-levels/tut_level.lvl -text
+levels/1.lvl -text
+levels/2.lvl -text
+levels/3.lvl -text
+levels/4.lvl -text
+levels/5.lvl -text
+levels/6.lvl -text
+levels/tutorial.lvl -text
 lvl_edit/WP[!!-~]Level[!!-~]Editor.cbp -text
 lvl_edit/arial.ttf -text
 lvl_edit/arrow-hor-left.png -text
@@ -39,9 +40,10 @@ lvl_edit/truck-hor.PNG -text
 lvl_edit/truck-vert.PNG -text
 lvl_edit/truck.h -text
 lvl_edit/warehouse-template.png -text
-media/Free[!!-~]Trance[!!-~]Loops[!!-~]1-9468-Free-Loops.com.wav -text
 media/bg_general.png -text
+media/bg_level.png -text
 media/bg_splash.png -text
+media/bg_tile.png -text
 media/bg_title.png -text
 media/bg_tutorial_1.png -text
 media/bg_tutorial_2.png -text
@@ -56,13 +58,17 @@ media/conveyor_dir_02_con_1.png -text
 media/conveyor_dir_02_con_3.png -text
 media/conveyor_dir_02_cross.png -text
 media/conveyor_dir_0_turn.png -text
+media/conveyor_dir_0_turn_high.png -text
 media/conveyor_dir_13.png -text
 media/conveyor_dir_13_con_0.png -text
 media/conveyor_dir_13_con_2.png -text
 media/conveyor_dir_13_cross.png -text
 media/conveyor_dir_1_turn.png -text
+media/conveyor_dir_1_turn_high.png -text
 media/conveyor_dir_2_turn.png -text
+media/conveyor_dir_2_turn_high.png -text
 media/conveyor_dir_3_turn.png -text
+media/conveyor_dir_3_turn_high.png -text
 media/crate-blue.png -text
 media/crate-green.png -text
 media/crate-orange.png -text
@@ -192,9 +198,6 @@ media/font_Z_small.png -text
 media/font___large.png -text
 media/font___medium.png -text
 media/font___small.png -text
-media/font_space_large.png -text
-media/font_space_medium.png -text
-media/font_space_small.png -text
 media/gate-blue-left-bg.png -text
 media/gate-blue-left-fg.png -text
 media/gate-blue-right-bg.png -text
@@ -222,6 +225,7 @@ media/gate-yellow-right-fg.png -text
 media/keyboard.png -text
 media/loading.png -text
 media/music_Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
+media/music_Free[!!-~]Trance[!!-~]Loops[!!-~]1-9468-Free-Loops.com.wav -text
 media/music_Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/snd_Backing[!!-~]Up-SoundBible.com-788937884.wav -text
 media/snd_Closing[!!-~]Drawer-SoundBible.com-1853830442.wav -text
@@ -231,11 +235,10 @@ media/snd_Synth[!!-~]Chorus[!!-~]Sounds-21216-Free-Loops.com.wav -text
 media/snd_Truck[!!-~]Idle[!!-~]And[!!-~]Pull[!!-~]Off-SoundBible.com-1854979252.wav -text
 media/snd_button-25.wav -text
 media/snd_button-30.wav -text
-media/star-public-domain.png -text
+media/star.png -text
 media/text_fail.png -text
 media/text_paused.png -text
 media/text_win.png -text
-media/tile.png -text
 media/truck_dir0.png -text
 media/truck_dir1.png -text
 src/Conveyor.h -text
@@ -291,6 +294,8 @@ src/WCEngine/Vector2f.cpp -text
 src/WCEngine/Vector2f.h -text
 src/WCEngine/main.cpp -text
 src/game.cbp -text
+src/makefile -text
+/warehouse_panic.gpe -text
 work/button.psd -text
 work/font_large.psd -text
 work/font_medium.psd -text
