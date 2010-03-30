@@ -223,12 +223,14 @@ media/gate-yellow-left-fg.png -text
 media/gate-yellow-right-bg.png -text
 media/gate-yellow-right-fg.png -text
 media/keyboard.png -text
+media/life.png -text
 media/loading.png -text
 media/music_Free[!!-~]Hip[!!-~]Hop[!!-~]3-9480-Free-Loops.com.wav -text
 media/music_Free[!!-~]Trance[!!-~]Loops[!!-~]1-9468-Free-Loops.com.wav -text
 media/music_Sweet[!!-~]RnB[!!-~]Beat-23820-Free-Loops.com.wav -text
 media/snd_Backing[!!-~]Up-SoundBible.com-788937884.wav -text
 media/snd_Closing[!!-~]Drawer-SoundBible.com-1853830442.wav -text
+media/snd_Door[!!-~]Buzzer-SoundBible.com-1567875395.wav -text
 media/snd_Dropping[!!-~]A[!!-~]Wrench-SoundBible.com-1488523476.wav -text
 media/snd_Not[!!-~]Even[!!-~]Phased-21219-Free-Loops.com.wav -text
 media/snd_Synth[!!-~]Chorus[!!-~]Sounds-21216-Free-Loops.com.wav -text
@@ -296,6 +298,7 @@ src/WCEngine/main.cpp -text
 src/game.cbp -text
 src/makefile -text
 /warehouse_panic.gpe -text
+/warehouse_panic.png -text
 work/button.psd -text
 work/font_large.psd -text
 work/font_medium.psd -text
