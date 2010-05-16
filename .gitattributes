@@ -53,6 +53,16 @@ media/button_pause.png -text
 media/button_pause_on.png -text
 media/button_quit.png -text
 media/button_quit_on.png -text
+media/click_01.png -text
+media/click_02.png -text
+media/click_03.png -text
+media/click_04.png -text
+media/click_05.png -text
+media/click_06.png -text
+media/click_07.png -text
+media/click_08.png -text
+media/click_09.png -text
+media/click_10.png -text
 media/conveyor_dir_02.png -text
 media/conveyor_dir_02_con_1.png -text
 media/conveyor_dir_02_con_3.png -text
@@ -281,6 +291,8 @@ src/Star.h -text
 src/Text.cpp -text
 src/Text.h -text
 src/Truck.h -text
+src/WCEngine/Animation.cpp -text
+src/WCEngine/Animation.h -text
 src/WCEngine/Application.cpp -text
 src/WCEngine/Application.h -text
 src/WCEngine/EventManager.cpp -text
