@@ -35,6 +35,14 @@ While it seems thread we made for the project itself wasn't archived, our thread
 
 Most (all?) of the graphical assets were made by `clankercrusher`, but were committed by other authors back then.
 
+## Development
+
+We originally made this using C++, with GCC and Code::Blocks. The initial prototype was made with SFML on Windows, but later ported to SDL so it could run on the main target platforms (including a makefile later on).
+
+You can find the initial SFML -> SDL transition in commit `db30d5d6a9db5eb58b17bd7d115454f9694cc6c8`.
+
+Some of the later commits might not have ever been committed - mainly some of the ports, but also including joystick support.
+
 ## Links
 > [!NOTE]
 > Most of these links are now dead, and don't have an archived version either. They are still listed here (but not as clickable links) because they were on the original `warehousepanic.com`.
