@@ -33,7 +33,7 @@ Features
 Originally made for the Pandora Angst Coding Competition in 2010. We collaborated on making this game on Game Design Novice (at `cpp.wikicomplete.info`), which has since been lost to the sands of time.
 While it seems thread we made for the project itself wasn't archived, our thread on the competition itself can be found [here](https://web.archive.org/web/20101006023029/http://cpp.wikicomplete.info/forum/t-4938/coding-competition).
 
-Most (all?) of the graphical assets were made by `clankercrusher`, but were committed by other authors back then.
+Most (all?) of the graphical assets were made by @clankercrusher , but were committed by other authors back then.
 
 ## Development
 
